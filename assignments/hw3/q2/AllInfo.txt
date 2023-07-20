@@ -1,0 +1,7 @@
+number of monkeys: 0
+number of lions: 1
+number of elephants: 0
+number of bears: 1
+number of tigers: 0
+number of giraffes: 0
+total number of animals: 2
