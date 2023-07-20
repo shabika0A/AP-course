@@ -1,0 +1,14 @@
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.exe
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.deps.json
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.runtimeconfig.json
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.runtimeconfig.dev.json
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.dll
+D:\uni\ap\codes\hw1\s1\s1\bin\Debug\netcoreapp3.1\s1.pdb
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.csproj.AssemblyReference.cache
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.AssemblyInfoInputs.cache
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.AssemblyInfo.cs
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.csproj.CoreCompileInputs.cache
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.dll
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.pdb
+D:\uni\ap\codes\hw1\s1\s1\obj\Debug\netcoreapp3.1\s1.genruntimeconfig.cache

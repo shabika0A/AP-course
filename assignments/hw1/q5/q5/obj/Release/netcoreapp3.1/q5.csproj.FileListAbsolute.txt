@@ -1,0 +1,14 @@
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.exe
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.deps.json
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.runtimeconfig.json
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.runtimeconfig.dev.json
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.dll
+D:\uni\ap\codes\hw1\q5\q5\bin\Release\netcoreapp3.1\q5.pdb
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.csproj.AssemblyReference.cache
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.AssemblyInfoInputs.cache
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.AssemblyInfo.cs
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.csproj.CoreCompileInputs.cache
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.dll
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.pdb
+D:\uni\ap\codes\hw1\q5\q5\obj\Release\netcoreapp3.1\q5.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.exe
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.deps.json
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.runtimeconfig.json
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.runtimeconfig.dev.json
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.dll
+D:\uni\ap\codes\cw4\cw4\bin\Debug\netcoreapp3.1\cw4.pdb
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.csproj.AssemblyReference.cache
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.AssemblyInfoInputs.cache
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.AssemblyInfo.cs
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.csproj.CoreCompileInputs.cache
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.dll
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.pdb
+D:\uni\ap\codes\cw4\cw4\obj\Debug\netcoreapp3.1\cw4.genruntimeconfig.cache
