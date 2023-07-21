@@ -1,0 +1,6 @@
+1 startingPoint a a a a 1
+1 endingPoint b b b b 2
+2 startingPoint  A S w 1
+2 endingPoint a a a a 8
+3 startingPoint o o o o 3
+3 endingPoint e e e e 5

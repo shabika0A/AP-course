@@ -1,0 +1,14 @@
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.csproj.AssemblyReference.cache
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.AssemblyInfoInputs.cache
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.AssemblyInfo.cs
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.csproj.CoreCompileInputs.cache
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.exe
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.deps.json
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.runtimeconfig.json
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.runtimeconfig.dev.json
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.dll
+D:\uni\ap\codes\hw4\q2\bin\Debug\netcoreapp3.1\q2.pdb
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.dll
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.pdb
+D:\uni\ap\codes\hw4\q2\obj\Debug\netcoreapp3.1\q2.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+D:\University classes\TA AP\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.csprojAssemblyReference.cache
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.CoreCompileInputs.cache
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+D:\University classes\TA AP\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+C:\Users\LENOVO\Desktop\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.AssemblyReference.cache
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.CoreCompileInputs.cache
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+D:\uni\ap\codes\hw7\CSVParser\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
